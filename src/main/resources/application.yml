@@ -1,0 +1,6 @@
+logging.level.org.springframework: DEBUG
+
+springbootex:
+   autoconfig:
+      configserver:
+         uri: "http://localhost:8080/"

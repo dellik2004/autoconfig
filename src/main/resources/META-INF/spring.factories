@@ -1,0 +1,3 @@
+# Auto Configuration for Common configuration.
+
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.springboot.autoconfig.props.CommonPropertiesAutoConfig
